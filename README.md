@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on gaming platform 
-- 📫 How to reach me _s.inghprashant_ my insta
+- 📫 How to reach me __s.inghprashant__ my insta
 - 
 
 <!---
